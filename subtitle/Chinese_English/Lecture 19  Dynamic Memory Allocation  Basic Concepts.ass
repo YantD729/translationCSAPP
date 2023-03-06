@@ -302,7 +302,7 @@ Dialogue: 0,0:11:58.68,0:12:03.98,Chinese,,0,0,0,,因为块正在保存像结构
 Dialogue: 0,0:12:04.76,0:12:12.80,English,,0,0,0,,Or you know scalar objects it has to be aligned to the size of the largest object that can occur
 Dialogue: 0,0:12:04.76,0:12:12.80,Chinese,,0,0,0,,或者标量对象必须与可能出现的最大对象的大小对齐
 Dialogue: 0,0:12:13.46,0:12:19.54,English,,0,0,0,,Okay so for 64-bit systems that's 16 byte alignment. For 32-bit systems it's 8 byte alignment
-Dialogue: 0,0:12:13.46,0:12:19.54,Chinese,,0,0,0,,所以对于 32 位系统需要 16 位字节对齐。64 位系统，需要 8 字节对齐
+Dialogue: 0,0:12:13.46,0:12:19.54,Chinese,,0,0,0,,所以对于 64 位系统需要 16 位字节对齐。32 位系统，需要 8 字节对齐
 Dialogue: 0,0:12:24.06,0:12:27.90,English,,0,0,0,,Now allocator are really interesting objects
 Dialogue: 0,0:12:24.06,0:12:27.90,Chinese,,0,0,0,,分配器真的很有趣
 Dialogue: 0,0:12:27.90,0:12:35.50,English,,0,0,0,,Because they combine a trade-off of both running time sort of speed and space
